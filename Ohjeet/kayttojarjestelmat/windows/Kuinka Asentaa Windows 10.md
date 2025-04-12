@@ -4,7 +4,7 @@ kategoriat:
   - kayttojarjestelmat
   - windows
 tags:
-  - Asennus
+  - asennus
 featured_media: https://datahavu.fi/wp-content/uploads/2024/01/Windows-10-logo.jpg
 julkaistu: true
 id: 3272
@@ -82,7 +82,7 @@ Nyt USB-muistitikun luonti alkaa. Tässä voi mennä hetki.
 Nyt kun muistitikku on valmis, käynnistä tietokone johon haluat asentaa Windowsin muistitikulta.
 
 
-### 2. Windowsin asennus
+### Vaihe 2: Windowsin asennus
 
 Nyt kun olet käynnistänyt tietokoneen muistitikulta, alamme nyt laittamaan järjestelmän asetuksia.
 
