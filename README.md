@@ -1,2 +1,8 @@
 # Ohjeet
-datahavu.fi verkkosivuston ohjeet
+
+Täältä löydät kaikki [datahavu.fi](https://datahavu.fi) verkkosivuston ohjeet
+
+
+Tämä on yhä työnalla. 
+
+Ohje ohjeiden luomiseen tulee myöhemmin.
