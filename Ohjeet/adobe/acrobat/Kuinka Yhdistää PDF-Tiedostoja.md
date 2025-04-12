@@ -72,7 +72,6 @@ Voit nyt ladata yhdistetyn PDF-tiedoston painamalla Lataa painiketta.
 ---
 
   
-
 ## Yhteenveto
 
 Olet nyt onnistuneesti yhdistänyt kaksi tai useampaa PDF-tiedostoa!
