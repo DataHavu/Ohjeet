@@ -35,7 +35,7 @@ Tässä oppaassa käymme läpi, kuinka voit ohittaa Microsoft-tilin luomisen ja 
 
 Seuraa Windows 11 asennusprosessia, kunnes pääset kohtaan **"Onko tämä oikea maa tai alue"**.
 
-  ![](Pasted%20image%2020250413115433.png)
+  ![](https://datahavu.fi/wp-content/uploads/2025/04/Pasted-image-20250413115433.png)
 
 
 
@@ -50,12 +50,12 @@ Seuraavaksi poistamme Windowsin asennuksen aikana vaadittavan internet-yhteyden,
 
 Paina `Shift + F10`, jotta saat auki komentokehotteen.
 
-![](Pasted%20image%2020250413121104.png)
+![](https://datahavu.fi/wp-content/uploads/2025/04/Pasted-image-20250413121104.png)
 
 
 Kirjoita `ipconfig /release` ja paina enter, katkaistaksesi internet-yhteyden.
 
-![](Pasted%20image%2020250413125912.png)
+![](https://datahavu.fi/wp-content/uploads/2025/04/Pasted-image-20250413125912.png)
 
 #### 2.1 Internet vaatimuksen poistaminen
 
@@ -63,7 +63,7 @@ Seuraavaksi ohitamme Windowsin asennuksen yhteydessä vaadittavan internet-yhtey
 
 Sulje ja avaa komentokehote uudestaan kirjoita `oobe\bybassnro` ja paina enter.
 
-![](Pasted%20image%2020250413130009.png)
+![](https://datahavu.fi/wp-content/uploads/2025/04/Pasted-image-20250413130009.png)
 
 Tämän jälkeen tietokoneesi käynnistyy uudelleen.
 
@@ -78,11 +78,11 @@ Seuraa Windowsin asennusohjetta, kunnes pääset kohtaan **"Muodostetaan yhteys 
 
 Valitse **"Minulla ei ole Internet-yhteyttä"**
 
-![](win11-muodostetaan-verkkoyhteys.png)
+![](https://datahavu.fi/wp-content/uploads/2025/04/win11-muodostetaan-verkkoyhteys.png)
 
 Tämän jälkeen voit jatkaa Windowsin asennusta normaalisti, kunnes saat Windowsin asennettua.
 
-![](Pasted%20image%2020250413131530.png)
+![](https://datahavu.fi/wp-content/uploads/2025/04/Pasted-image-20250413131530.png)
 
 ---
 
@@ -98,8 +98,6 @@ Tämän jälkeen voit jatkaa Windowsin asennusta normaalisti, kunnes saat Window
   
 
 ---
-
-  
 
 ## Yhteenveto
 
