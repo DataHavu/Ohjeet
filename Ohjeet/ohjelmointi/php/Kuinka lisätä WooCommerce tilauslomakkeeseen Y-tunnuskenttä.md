@@ -9,6 +9,7 @@ tags:
 featured_media: https://datahavu.fi/wp-content/uploads/2024/04/y-tunnuskentta-kassasivulle.jpg
 julkaistu: true
 id: 3964
+Huomioitavaa: UKK:ssa linkit ei toimi ja ne pitää korjata Wordpressissä
 ---
 ## Johdanto
 
@@ -357,12 +358,11 @@ function nayta_y_tunnus_tilauksen_muokkaus_sivulla($order)
 ---
 ## UKK (Usein kysytyt kysymykset)
 
-<details> <summary>Kysymys 1: [Usein kysytty kysymys]</summary> Vastaus kysymykseen. </details> <details> <summary>Minne lisään PHP-koodin</summary> Voit lisätä PHP-koodia WordPress sivuillesi lataamalla [WPcode lisäosan](https://fi.wordpress.org/plugins/insert-headers-and-footers/).
-
+ <details> <summary>Minne lisään PHP-koodin</summary> Voit lisätä PHP-koodia WordPress sivuillesi lataamalla [WPcode lisäosan](https://fi.wordpress.org/plugins/insert-headers-and-footers).
+ 
 Voit myös lisätä PHP-koodin functions.php tiedostoon, jonka löydät WordPress Admin-sivultasi:  
 Ulkoasu  -> Teeman tiedostoeditori.  
 Valitse muokattavaksi teemaksi nykyinen teemasi. (Suosittelen tekemään teemastasi "lapsiteeman", jotta lisäämäsi PHP-koodi ei häviä teemaa päivittäessä)
-
 Jos tarvitset lisää apua PHP-koodin lisäämiseen WordPress-sivuillasi ota meihin rohkeasti [yhteyttä](https://itinfo.fi/yhteydenotto) tai jätä kommentti tähän julkaisuun.</details>
 
   
