@@ -86,5 +86,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi faucibus posuere 
 ### H3 Alaotsikko
 
 Nam accumsan, ex vel fringilla hendrerit, augue eros consectetur nunc, nec dictum nisl nisl quis orci. Curabitur vitae commodo risus. Quisque in dolor tellus. Maecenas sed bibendum augue, tristique porta sapien. Phasellus eu massa justo. Nullam vel arcu sapien. Aliquam at gravida risus, quis facilisis orci.
-![](Pasted%20image%2020250413212328.png)
+![](../Kuvat/Pasted%20image%2020250413212559.png)
 testi
+
+![](Kuvat/Pasted%20image%2020250413212617.png)
