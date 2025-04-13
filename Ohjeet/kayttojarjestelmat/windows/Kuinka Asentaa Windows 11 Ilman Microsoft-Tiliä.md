@@ -69,7 +69,7 @@ Sulje ja avaa komentokehote uudestaan kirjoita `oobe\bybassnro` ja paina enter.
 Tämän jälkeen tietokoneesi käynnistyy uudelleen.
 
 #### 2.2 Internet-yhteyden katkaiseminen taas
-Jos irrotit verkkokaapelin, voit ohittaa tämän kohdan. et
+Jos irrotit verkkokaapelin, voit ohittaa tämän kohdan.
 
 Suorita aikaisemmin 2.1 kohdassa näytetty `ipconfig /release` komento uudestaan ja sulje komentokehote.
 
