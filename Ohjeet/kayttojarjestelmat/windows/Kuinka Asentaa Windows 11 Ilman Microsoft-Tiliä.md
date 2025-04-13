@@ -96,7 +96,6 @@ Tämän jälkeen voit jatkaa Windowsin asennusta normaalisti, kunnes saat Window
 <details> <summary>Voinko käyttää kaikkia Windows 11:n ominaisuuksia ilman Microsoft-tiliä?</summary>Useimmat perusominaisuudet toimivat ilman Microsoft-tiliä, mutta tietyt toiminnot, kuten OneDrive ja Microsoft Store, vaativat Microsoft-tilin. </details>
 
   
-
 ---
 
 ## Yhteenveto
