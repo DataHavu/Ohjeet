@@ -23,10 +23,8 @@ Koko koodin löydät alhaalta.
 - WordPress
 
 - WPcode lisäosa (Ei pakollinen)
-  
 
 ---
-
   
 ## Vaiheittaiset ohjeet
 
