@@ -25,7 +25,6 @@ Tässä ohjeessa kerromme, kuinka voit asentaa Windows 11 -käyttöjärjestelmä
 - **Perustiedot Windowsin asennuksesta**: Ohjeessa käsitellään vain Microsoft-tilin ohittamista, ei koko asennusprosessia.
 
   
-
 ---
 
   
