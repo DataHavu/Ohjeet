@@ -1,16 +1,18 @@
 ---
-title: Kuinka Asentaa Windows 11 Ilman Microsoft-Tiliä
-kategoriat:
-  - kayttojarjestelmat
-  - windows
-tags:
-  - asennus
-featured_media: windows-11-asennus-microsoft-tili.jpg
+featured_media: https://datahavu.fi/wp-content/uploads/2025/04/windows-11-asennus-microsoft-tili.jpg
+id: 4743
 julkaistu: true
+kategoriat:
+- kayttojarjestelmat
+- windows
+tags:
+- asennus
+title: Kuinka Asentaa Windows 11 Ilman Microsoft-Tiliä
 ---
+
 ## Johdanto
 
-Tässä oppaassa käymme läpi, kuinka voit ohittaa Microsoft-tilin luomisen ja käyttää Windows 11:ta paikallisella tilillä. 
+Tässä ohjeessa kerromme, kuinka voit asentaa Windows 11 -käyttöjärjestelmän ilman Microsoft-tiliä.
 
 ---
 
