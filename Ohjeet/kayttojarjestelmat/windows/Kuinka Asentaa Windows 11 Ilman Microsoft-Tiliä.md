@@ -30,15 +30,46 @@ Tässä ohjeessa kerromme, kuinka voit asentaa Windows 11 -käyttöjärjestelmä
   
 ## Vaiheittaiset ohjeet
 
-  
 
+### Vaihe 1: Seuraa Windows 11 asennusprosessia
+
+Seuraa Windows 11 asennusprosessia, kunnes pääset Microsoft-tilin kirjautumis kohtaan.
+
+![](../../../Kuvat/Pasted%20image%2020250529152837.png)
+
+### Vaihe 2: Paikallisen tilin luonti
+
+Paina `Shift + F10`, jotta saat auki komentokehotteen.
+
+Kirjoita komentokehotteeseen `start ms-cxh:localonly`
+
+![](../../../Kuvat/Pasted%20image%2020250529153409.png)
+
+Kirjoita käyttäjänimi ja halutessasi salasana. Näytän myöhemmin, kuinka voit lisätä salasanan ilman, että sinun tarvitsee määrittää suojauskysymyksiä. Paina lopuksi "Seuraava".
+
+![](../../../Kuvat/Pasted%20image%2020250529153607.png)
+
+Seuraa seuraavaksi Windowsin asennusohjetta, kunnes pääset työpöydälle. Olet nyt onnistuneesti luonut paikallisen tilin. Näytän vielä kuinka voit asettaa tilille salasanan.
+![](../../../Kuvat/Pasted%20image%2020250529154037.png)
+
+### Vaihe 3: Paikalliselle tilille salasana (Valinnainen)
+
+Paina `CTRL ALT DELETE` ja valitse "Vaihda Salasanaa"
+
+![](../../../Kuvat/Pasted%20image%2020250529154344.png)
+
+Jätä vanha salasana tyhjäksi, jos sitä ei ole ja lisää uusi salasanasi, jonka jälkeen paina `Enter`
+
+![](../../../Kuvat/Pasted%20image%2020250529154717.png)
+
+---
+
+## VANHA ASENNUSOHJE, MIKÄ EI ENÄÄ TOIMI UUDEMMISSA VERSIOISSA
 ### Vaihe 1: Seuraa Windows 11 asennusprosessia
 
 Seuraa Windows 11 asennusprosessia, kunnes pääset kohtaan **"Onko tämä oikea maa tai alue"**.
 
   ![](https://datahavu.fi/wp-content/uploads/2025/04/Pasted-image-20250413115433.png)
-
-
 
 ### Vaihe 2: Internet-vaatimuksen poistaminen
 
