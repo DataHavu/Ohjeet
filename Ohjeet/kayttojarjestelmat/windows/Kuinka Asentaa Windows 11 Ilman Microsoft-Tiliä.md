@@ -58,7 +58,7 @@ Paina `CTRL ALT DELETE` ja valitse "Vaihda Salasanaa"
 
 ![](../../../Kuvat/Pasted%20image%2020250529154344.png)
 
-Jätä vanha salasana tyhjäksi, jos sitä ei ole ja lisää uusi salasanasi, jonka jälkeen paina `Enter`
+Jätä vanha salasana tyhjäksi, jos sitä ei ole ja lisää uusi salasanasi, jonka jälkeen paina `Enter`.
 
 ![](../../../Kuvat/Pasted%20image%2020250529154717.png)
 
