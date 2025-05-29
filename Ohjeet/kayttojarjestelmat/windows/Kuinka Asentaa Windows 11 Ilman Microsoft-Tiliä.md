@@ -20,7 +20,7 @@ Tässä ohjeessa kerromme, kuinka voit asentaa Windows 11 -käyttöjärjestelmä
 
 -  **Windows 11 -asennusmedia**: Tarvitset USB-muistitikun tai DVD-levyn, johon on luotu Windows 11:n asennusmedia.
 
-- **Yhteensopiva tietokone**: Varmista, että tietokoneesi täyttää Windows 11:n [minimivaatimukset](https://www.microsoft.com/fi-fi/windows/windows-11-specifications?r=1)
+- **Yhteensopiva tietokone**: Varmista, että tietokoneesi täyttää Windows 11:n [minimivaatimukset](https://www.microsoft.com/fi-fi/windows/windows-11-specifications?r=1).
 
 - **Perustiedot Windowsin asennuksesta**: Ohjeessa käsitellään vain Microsoft-tilin ohittamista, ei koko asennusprosessia.
 
@@ -35,7 +35,7 @@ Tässä ohjeessa kerromme, kuinka voit asentaa Windows 11 -käyttöjärjestelmä
 
 Seuraa Windows 11 asennusprosessia, kunnes pääset Microsoft-tilin kirjautumis kohtaan.
 
-![](../../../Kuvat/Pasted%20image%2020250529152837.png)
+![](https://datahavu.fi/wp-content/uploads/2025/05/Pasted-image-20250529152837.png)
 
 ### Vaihe 2: Paikallisen tilin luonti
 
@@ -43,24 +43,24 @@ Paina `Shift + F10`, jotta saat auki komentokehotteen.
 
 Kirjoita komentokehotteeseen `start ms-cxh:localonly`
 
-![](../../../Kuvat/Pasted%20image%2020250529153409.png)
+![](https://datahavu.fi/wp-content/uploads/2025/05/Pasted-image-20250529153409.png)
 
 Kirjoita käyttäjänimi ja halutessasi salasana. Näytän myöhemmin, kuinka voit lisätä salasanan ilman, että sinun tarvitsee määrittää suojauskysymyksiä. Paina lopuksi "Seuraava".
 
-![](../../../Kuvat/Pasted%20image%2020250529153607.png)
+![](https://datahavu.fi/wp-content/uploads/2025/05/Pasted-image-20250529153607.png)
 
 Seuraa seuraavaksi Windowsin asennusohjetta, kunnes pääset työpöydälle. Olet nyt onnistuneesti luonut paikallisen tilin. Näytän vielä kuinka voit asettaa tilille salasanan.
-![](../../../Kuvat/Pasted%20image%2020250529154037.png)
+![](https://datahavu.fi/wp-content/uploads/2025/05/Pasted-image-20250529154037.png)
 
 ### Vaihe 3: Paikalliselle tilille salasana (Valinnainen)
 
 Paina `CTRL ALT DELETE` ja valitse "Vaihda Salasanaa".
 
-![](../../../Kuvat/Pasted%20image%2020250529154344.png)
+![](https://datahavu.fi/wp-content/uploads/2025/05/Pasted-image-20250529154344.png)
 
 Jätä vanha salasana tyhjäksi, jos sitä ei ole ja lisää uusi salasanasi, jonka jälkeen paina `Enter`.
 
-![](../../../Kuvat/Pasted%20image%2020250529154717.png)
+![](https://datahavu.fi/wp-content/uploads/2025/05/Pasted-image-20250529154717.png)
 
 ---
 
