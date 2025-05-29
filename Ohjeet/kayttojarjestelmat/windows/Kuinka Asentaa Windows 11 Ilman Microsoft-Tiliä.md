@@ -54,7 +54,7 @@ Seuraa seuraavaksi Windowsin asennusohjetta, kunnes pääset työpöydälle. Ole
 
 ### Vaihe 3: Paikalliselle tilille salasana (Valinnainen)
 
-Paina `CTRL ALT DELETE` ja valitse "Vaihda Salasanaa"
+Paina `CTRL ALT DELETE` ja valitse "Vaihda Salasanaa".
 
 ![](../../../Kuvat/Pasted%20image%2020250529154344.png)
 
